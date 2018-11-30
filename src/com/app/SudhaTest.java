@@ -1,4 +1,4 @@
-com.app;
+package com.app;
 public class SudhaTest{
 
 private int sid;
